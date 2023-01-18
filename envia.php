@@ -17,7 +17,7 @@ $usuario_ftp = 'ebrnet';
 $senha_ftp = '@20Ship30##';
 
 // Extensões de arquivos permitidas
-$extensoes_autorizadas = array('.png', '.jpg', '.mp4', '.mkv', '.txt');
+$extensoes_autorizadas = array('.png', '.jpg', '.mp4', '.mkv', '.txt', '.jpeg');
 
 // Caminho da pasta FTP
 $caminho = 'arquivos/';
