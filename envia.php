@@ -10,11 +10,11 @@ set_time_limit(0);
   /*---------------------------------------------------------------------------- */
 
 // IP do Servidor FTP
-$servidor_ftp = '189.14.192.113';
+$servidor_ftp = '';
 
 // Usuário e senha para o servidor FTP
-$usuario_ftp = 'ebrnet';
-$senha_ftp = '@20Ship30##';
+$usuario_ftp = '';
+$senha_ftp = '';
 
 // Extensões de arquivos permitidas
 $extensoes_autorizadas = array('.png', '.jpg', '.mp4', '.mkv', '.txt', '.jpeg');
